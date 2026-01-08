@@ -1,2 +1,2 @@
-# creative-coding-examples
+# Creative Coding Examples
 Examples from Creative Coding
